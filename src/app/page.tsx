@@ -196,7 +196,7 @@ const Home = () => {
             </h2>
             <GradientText
               text="The Creon NFT pass unlocks access to AI projects, the Creon launchpad, and a ticket to generate passive income through AI-driven tools."
-              fontSize="max-[600px]:text-[4.8vw]"
+              fontSize="text-[1.146vw] max-[600px]:text-[4.8vw]"
               fontFamily="satoshi"
               border={false}
             />
@@ -238,7 +238,7 @@ const Home = () => {
             <GradientText
               text="AI INNOVATION & DECENTRALIZATION"
               border={false}
-              fontSize="1.979vw max-[600px]:text-[5.867vw]"
+              fontSize="text-[1.979vw] max-[600px]:text-[5.867vw]"
               fontFamily="monument"
             />
           </div>
@@ -280,7 +280,7 @@ const Home = () => {
             <GradientText
               text="WHILE PRIORITIZING COMMUNITIES AND DEMORCRATIZING PROFITS"
               fontFamily="monument"
-              fontSize="1.979vw max-[600px]:text-[5.867vw]"
+              fontSize="text-[1.979vw] max-[600px]:text-[5.867vw]"
               border={false}
             />
           </div>
