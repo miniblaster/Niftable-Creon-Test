@@ -379,7 +379,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-        <div className="flex justify-between px-[12.5vw] py-[8.073vw] gap-[2.083vw] max-[600px]:px-[4vw] max-[600px]:py-[21.333vw] max-[600px]:justify-start max-[600px]:overflow-x-scroll">
+        <div className="flex no-scrollbar justify-between px-[12.5vw] py-[8.073vw] gap-[2.083vw] max-[600px]:px-[4vw] max-[600px]:py-[21.333vw] max-[600px]:justify-start max-[600px]:overflow-x-scroll">
           <RoadMapCard
             header="TOKEN"
             subHeader="The Gateway token to the world of AI"
@@ -415,7 +415,7 @@ const Home = () => {
             endeavors.
           </RoadMapCard>
         </div>
-        <div className="flex flex-col px-[12.5vw] py-[4.167vw] gap-[1.042vw] z-10 max-[600px]:px-[4vw] max-[600px]:py-[8vw] max-[600px]:gap-[4vw] max-[600px]:overflow-x-auto max-[600px]:flex-row ">
+        <div className="flex flex-col no-scrollbar px-[12.5vw] py-[4.167vw] gap-[1.042vw] z-10 max-[600px]:px-[4vw] max-[600px]:py-[8vw] max-[600px]:gap-[4vw] max-[600px]:overflow-x-auto max-[600px]:flex-row ">
           <MarketCard
             header="AI PROSPECTS, MARKET SIZE, AND DEVELOPMENT PACE"
             imgUrl="/assets/images/market-1.png"
@@ -457,7 +457,7 @@ const Home = () => {
           </MarketCard>
         </div>
         <div className="flex justify-between items-center relative px-[12.5vw] pt-[0.781vw] pb-[1.823vw] max-[600px]:pt-[1.867vw] max-[600px]:px-[4vw] max-[600px]:pb-[10.667vw] max-[600px]:gap-[4vw] max-[600px]:flex-col">
-          <div className="flex items-center gap-[4.688vw] z-10 max-[600px]:gap-[7.467vw] max-[600px]:flex-col-reverse flex-col-reverse">
+          <div className="flex items-center gap-[4.688vw] z-10 max-[600px]:gap-[7.467vw] max-[600px]:flex-col-reverse max-[600px]:flex-col-reverse">
             <span className="text-[0.833vw] leading-[130%] font-satoshi text-white max-[600px]:text-[3.733vw]">
               © Creon 2023. All rights reserved.
             </span>
