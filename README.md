@@ -4,12 +4,7 @@ Next 14 + Tailwind CSS + TypeScript
 
 ## Setting up the Development environment
 
-### Step 0 (if necessary): Install the required resources
-
-- [Git](https://git-scm.com/downloads)
-- [Node v20.9.0](https://nodejs.org/en/blog/release/v20.9.0)
-
-### Step 1: Download the repository in your CarbonBlaze folder
+### Step 1: Download the repository in your Niftable-Creon-Test folder
 
 ```bash
 > git clone https://github.com/miniblaster/Niftable-Creon-Test
